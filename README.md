@@ -32,8 +32,9 @@ The adjusted model explains little (pseudo R-squared 0.13). All results are asso
 |---|---|
 | `Healthcare_Analytics_Doctor_Visits.ipynb` | Full analysis with code, outputs and written interpretation |
 | `doctor_visits.csv` | Dataset |
-| `TIRTC_P2_Healthcare_Analytics_Doctor_Visits.pptx` | Project presentation |
-| `figures/` | Charts saved by the notebook |
+| `Project-Healthcare_Analytics_for_Doctor_Visits.pptx` | Project presentation |
+| `fig1_outcome.png` to `fig9_adjusted.png` | Charts saved by the notebook |
+| `Dataset explanation.docx` | Dataset guide supplied by the programme |
 
 ## How to run
 ```bash
